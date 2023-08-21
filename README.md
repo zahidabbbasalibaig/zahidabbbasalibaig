@@ -1,4 +1,4 @@
-#  ![SuiteCRM](https://suitecrm.com/wp-content/uploads/2017/12/logo.png)/![SugarCRM](https://www.sugarcrm.com/au/wp-content/themes/sugarcrm/dist/images/sugarcrm-logo-blk.svg) Expert with 6+ Years of Experience
+#  ![SuiteCRM](https://suitecrm.com/wp-content/uploads/2017/12/logo.png&height="20")/![SugarCRM](https://www.sugarcrm.com/au/wp-content/themes/sugarcrm/dist/images/sugarcrm-logo-blk.svg) Expert with 6+ Years of Experience
 
 Hello! I'm Zahid, a seasoned CRM developer with over 6 years of hands-on experience in working with SuiteCRM and SugarCRM. I specialize in building and customizing CRM solutions to help businesses streamline their processes and achieve their goals.
 
