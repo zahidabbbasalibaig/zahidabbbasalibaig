@@ -8,15 +8,15 @@ Hello! I'm Zahid, a seasoned CRM developer with over 6 years of hands-on experie
 - 💼 Over 6 years of experience in SuiteCRM/SugarCRM development.
 - 🚀 Skilled in designing, developing, and maintaining CRM systems to meet client requirements.
 - 👨‍💻 Proficient in:
-  - ![SuiteCRM](https://img.shields.io/badge/-SuiteCRM-c14438?style=flat-square&logo=suitecrm&logoColor=white)
-  - ![SugarCRM](https://img.shields.io/badge/-SugarCRM-89c4f4?style=flat-square&logo=sugarcrm&logoColor=white)
-  - ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white)
-  - ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-  - ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel&logoColor=white)
-  - ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-orange?style=flat-square&logo=codeigniter&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
-  - ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
+   ![SuiteCRM](https://img.shields.io/badge/-SuiteCRM-c14438?style=flat-square&logo=suitecrm&logoColor=white)
+   ![SugarCRM](https://img.shields.io/badge/-SugarCRM-89c4f4?style=flat-square&logo=sugarcrm&logoColor=white)
+   ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=white)
+   ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+   ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel&logoColor=white)
+   ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-orange?style=flat-square&logo=codeigniter&logoColor=white)
+   ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
+  ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
 
 ## Key Skills
 
