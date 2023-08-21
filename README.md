@@ -30,7 +30,7 @@ Hello! I'm Zahid, a seasoned CRM developer with over 6 years of hands-on experie
 
 ## Contact Me
 
-📬 Feel free to reach out to me at [your@email.com](mailto:zahidabbasalibaig@gmail.com) for collaboration opportunities, CRM consultations, or any questions you may have!
+📬 Feel free to reach out to me at [zahidabbaslalibaig@gmail.com](mailto:zahidabbasalibaig@gmail.com) for collaboration opportunities, CRM consultations, or any questions you may have!
 
 Connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/zahid-baig-14206682/)) to stay updated on my latest projects and CRM insights.
 
